@@ -1,2 +1,4 @@
-# jmake
+# JMake
 JNS Compiler
+
+`jmake [JMAKEFILE]`
